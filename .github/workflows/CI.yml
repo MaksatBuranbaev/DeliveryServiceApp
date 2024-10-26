@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restore DeliveryServiceApp
+        run: dotnet restore DeliveryServiceApp/DeliveryServiceApp.csproj
+
+      - name: Restore DeliveryServiceApp.Tests
+        run: dotnet restore DeliveryServiceApp.Tests/DeliveryServiceApp.Tests.csproj
+
+      - name: Build
+        run: dotnet build --no-restore --configuration Release
+
+      - name: Run Tests
+        run: |
+          dotnet test
+
+

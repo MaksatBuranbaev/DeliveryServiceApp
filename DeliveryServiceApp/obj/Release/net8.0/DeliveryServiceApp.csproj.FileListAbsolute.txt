@@ -1,0 +1,14 @@
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\bin\Release\net8.0\DeliveryServiceApp.exe
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\bin\Release\net8.0\DeliveryServiceApp.deps.json
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\bin\Release\net8.0\DeliveryServiceApp.runtimeconfig.json
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\bin\Release\net8.0\DeliveryServiceApp.dll
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\bin\Release\net8.0\DeliveryServiceApp.pdb
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\DeliveryServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\DeliveryServiceApp.AssemblyInfoInputs.cache
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\DeliveryServiceApp.AssemblyInfo.cs
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\DeliveryServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\DeliveryServiceApp.dll
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\refint\DeliveryServiceApp.dll
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\DeliveryServiceApp.pdb
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\DeliveryServiceApp.genruntimeconfig.cache
+C:\Users\zenfo\source\repos\DeliveryServiceApp\DeliveryServiceApp\obj\Release\net8.0\ref\DeliveryServiceApp.dll
